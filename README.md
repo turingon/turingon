@@ -44,7 +44,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorukAytekin07&langs_count=8&theme=react" alt=DorukAytekin07 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorukAytekin07&layout=compact&theme=react" alt=DorukAytekin07 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DorukAytekin07&show_icons=true&locale=en&theme=react" alt="DorukAytekin07" /></p>
 
