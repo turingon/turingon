@@ -3,7 +3,7 @@
 <h3 align="center">Doruk Aytekin Github Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DorukAytekin07&label=Profile%20views&color=0e75b6&style=flat" alt="DorukAytekin07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DorukAytekin07&theme=nord" alt="DorukAytekin07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=dorukaytekin07&theme=nord" alt="DorukAytekin07" /></a> </p>
 
 - 🌱 I’m currently learning **Rust And Go**
 - 💬 Ask me about **Python**
